@@ -1,0 +1,12 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/fcemu/main/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/fcemu/main/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/fcemu/main/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/fcemu/main/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/fcemu/main/",
+	"version" : "1",
+	"engineVersion" : "1.0.0",
+	"assets" : {},
+	"group" : {},
+    "searchPaths" : []
+}
